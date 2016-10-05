@@ -1,4 +1,4 @@
-package fi.joonasid.midiutil;
+package fi.iki.joonasid.midiutil;
 
 /**
  * @author <a href="mailto:joonas.id@iki.fi">Joonas Id</a>

@@ -1,6 +1,6 @@
-package fi.joonasid.tx81z;
+package fi.iki.joonasid.tx81z;
 
-import fi.joonasid.midiutil.MidiUtils;
+import fi.iki.joonasid.midiutil.MidiUtils;
 
 import java.io.PrintStream;
 
