@@ -1,15 +1,9 @@
 package fi.joonasid.midiutil;
 
 /**
- * @author <a href="mailto:joonas.id@logica.com">Joonas Id</a>
+ * @author <a href="mailto:joonas.id@iki.fi">Joonas Id</a>
  */
 public class MidiUtils {
-
-    /*
-     *
-     *
-     */
-
 
     private static final char ZERO = '0';
     private static final char ONE = '1';
@@ -23,7 +17,7 @@ public class MidiUtils {
     }
 
     /**
-     * Insert spceified values into a binary value pattern, yielding a 8-bit hex value
+     * Insert specified values into a binary value pattern, yielding a 8-bit hex value
      *
      * @param pattern the binary pattern, with a different mask char used for each inserted value
      * @param values  the values to insert (first value for first masked area, second value for second, etc)
@@ -36,7 +30,7 @@ public class MidiUtils {
     }
 
     /**
-     * Insert spceified values into a binary value pattern, yielding a binary value.
+     * Insert specified values into a binary value pattern, yielding a binary value.
      *
      * @param pattern the binary pattern, with a different mask char used for each inserted value
      * @param values  the values to insert (first value for first masked area, second value for second, etc)
